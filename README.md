@@ -5,6 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ganga_sri_957ed5a8c67b545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ganga_sri_957ed5a8c67b545" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/ganga-sri-balakrishnan-5300a022a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ganga-sri-balakrishnan-5300a022a" height="30" width="40" /></a>
+<a href="https://kaggle.com/ganga0299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ganga0299" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gangasrikrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gangasrikrishna1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gangasrikrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gangasrikrishnan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gangasri25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gangasri25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
